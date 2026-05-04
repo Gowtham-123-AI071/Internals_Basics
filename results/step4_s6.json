@@ -1,7 +1,0 @@
-{
-    "registered_model_name": "streamcast-watch-time-min-predictor",
-    "version": 2,
-    "run_id": "c881d56417ab41cbbaa15dde4b7c70ad",
-    "source_metric": "rmse",
-    "source_metric_value": 0.0
-}
