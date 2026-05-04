@@ -1,0 +1,16 @@
+{
+  "health_endpoint": "/heartbeat",
+  "predict_endpoint": "/score",
+  "port": 8080,
+  "health_response": {
+    "alive": true,
+    "service": "StreamCast watch_time_min API"
+  },
+  "test_input": {
+    "content_length_min": 107.3,
+    "user_tenure_months": 42,
+    "is_premium": 0,
+    "genre_score": 4
+  },
+  "prediction": 88.75239999999998
+}
